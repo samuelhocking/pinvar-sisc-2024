@@ -1,7 +1,7 @@
 # Execute a cross-validation run
 
 path=$(pwd)
-pinvar_path="${path%/pinvar*}/pinvar"
+pinvar_path="${path%/pinvar*}/pinvar-sisc-2024"
 
 # change as necessary to directory containing the modules:
 # Pinvar.jl
