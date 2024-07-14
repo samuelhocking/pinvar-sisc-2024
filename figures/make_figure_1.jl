@@ -1,10 +1,5 @@
-using LinearAlgebra
-using PyPlot
-using DataFrames
-using CSV
 using DelimitedFiles
-using Statistics
-using Random
+using PyPlot
 
 modules_dir = "../modules"
 data_path = "../data"
